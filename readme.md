@@ -29,6 +29,12 @@ convenient, and the circuit is less clear since only pin's number are indicated.
 
 For those of you who are more advanced, you can also build more adapted breakout board.
 
+**Big breakout board**
+
+[This repository](https://github.com/sdrdis/PCA9540BD_big_breakout) hosts PCB schematics of the breakout board for PCA9540BD. All pins are conveniently labelled so that your circuit stays easily readable.
+
+<img src="http://sebastien.drouyer.com/images_for_projects_readme/PCA9540BD/big_breakout.png" />
+
 **Small breakout board**
 
 [This repository](https://github.com/sdrdis/PCA9540BD_small_breakout) hosts a smaller version of the breakout board. It is about the same size as the DIP8 adapter, but the order of the pins are altered so that all pins connected to your arduino are on one side, and all pins connected to your devices are on the other side.
