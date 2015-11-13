@@ -33,6 +33,8 @@ For those of you who are more advanced, you can also build more adapted breakout
 
 [This repository](https://github.com/sdrdis/PCA9540BD_small_breakout) hosts a smaller version of the breakout board. It is about the same size as the DIP8 adapter, but the order of the pins are altered so that all pins connected to your arduino are on one side, and all pins connected to your devices are on the other side.
 
+<img src="http://sebastien.drouyer.com/images_for_projects_readme/PCA9540BD/small_breakout_pins.png" />
+
 ## About the author ##
 
 Sebastien Drouyer - [website](http://sebastien.drouyer.com) - [twitter](https://twitter.com/sdrdis)
