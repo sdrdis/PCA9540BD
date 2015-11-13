@@ -25,3 +25,6 @@ convenient, and the circuit is less clear since only pin's number are indicated.
 
 <img src="http://sebastien.drouyer.com/images_for_projects_readme/PCA9540BD/DIP8.png" />
 
+## About the author ##
+
+Sebastien Drouyer - [website](http://sebastien.drouyer.com) - [twitter](https://twitter.com/sdrdis)
