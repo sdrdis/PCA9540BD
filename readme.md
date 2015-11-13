@@ -22,3 +22,6 @@ I know, there doesn't exist any breakout board for this component. Some easy sol
 The most general solution, since the PCA9540BD component has 8 pins, is to buy a DIP8 adapter. You only have to solder your component to
 the DIP8 adapter, some pins headers, and you are good to go. The drawback of this method is that the order of the pins is not very
 convenient, and the circuit is less clear since only pin's number are indicated.
+
+<img src="http://sebastien.drouyer.com/images_for_projects_readme/PCA9540BD/DIP8.png" />
+
